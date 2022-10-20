@@ -1,4 +1,4 @@
-# *Crypto Query Lite - Crypto Analysis Tool* 
+# *Crypto Montecarlo* 
    <p align='center'> <img src='images/icons-390.jpg'></p>
 
 ---
@@ -18,11 +18,11 @@
 
 A crypto trader needs an analysis of potential returns on investment based on the historical performance of a coin. This analysis helps the trader determine what is the optimal investment portfolio.
 
-### *Our Solution - Crypto Query Lite*
+### *Our Solution - Crypto Montecarlo*
 
-Our team created an analysis tool, *Crypto Query Lite*, that allows the user to view the possible outcomes in regards to their initial investment.
+Our team created an analysis tool, *Crypto Montecarlo*, that allows the user to view the possible outcomes in regards to their initial investment.
 
-*Crypto Query Lite* uses a Monte Carlo Simulation to forecast future performance of a coin, the projection is based on the most recent year of daily prices as downloaded from Yahoo Finance via API.
+*Crypto Montecarlo* uses a Monte Carlo Simulation to forecast future performance of a coin, the projection is based on the most recent year of daily prices as downloaded from Yahoo Finance via API.
 
 The user can select:
 
